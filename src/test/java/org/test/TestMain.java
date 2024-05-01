@@ -5,8 +5,8 @@ import org.testng.annotations.Test;
 public class TestMain {
 	@Test
 	private void test1() {
-		// TODO Auto-generated method stub
-
+		System.out.println("bagavathi");
+		System.out.println("malavika");
 	}
 
 }
